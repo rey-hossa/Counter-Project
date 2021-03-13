@@ -12,4 +12,6 @@ To Starting using this Application, download the project and open the file "coun
 The use is of a simple counter, then you can increase or decrease the number. Also there are advanced features that allow you to change the number to increase or decrease.
 
 ## Contact
+Email: rey.hossa.rh@gmail.com
+Project link: 
 
