@@ -1,3 +1,3 @@
 # Counter-Project
 ciao 2
-![Alt text](counter.JPG "a title")
+[![Product Name Screen Shot][product-screenshot]](counter-project/images/counter.jpg)
