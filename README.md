@@ -2,7 +2,7 @@
 
 ## About The Project
 
-![Alt text](counter.JPG "image")
+![Alt text](images/counter.JPG "image")
 
 This project is a simple counter application with no particularly advanced functions, but with an attractive and minimal design and is obviously totally responsive.
 
